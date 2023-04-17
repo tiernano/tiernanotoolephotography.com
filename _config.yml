@@ -4,7 +4,7 @@
 
 url: http://tiernanotoolephotography.com
 title: Tiernan OToole Photography
-email: tiernan@tiernanotoole.ie
+email: tiernan@geekphotographer.com
 author: Tiernan OToole
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
@@ -30,3 +30,5 @@ social:
     url: https://github.com/tiernano
   - title: linkedin
     url: https://ie.linkedin.com/in/tiernano
+  - title: mastodon
+    url: https://s.o2l.ie/@tiernano 
